@@ -1,6 +1,6 @@
 # Hello!
 
-You can check the application by following the [link](http://medyanenko.github.io/Kudriavska07102022).
+# You can check the application by following the [link](http://medyanenko.github.io/Kudriavska07102022).
 
 ## The main features of the application, according to the task:
 - Header and footer should be sticky.
@@ -13,6 +13,6 @@ You can check the application by following the [link](http://medyanenko.github.i
 - Hooks(useState, useEffect, custom hook).
 - Plain CSS/HTML.
 
-# Vielen Dank für Ihre Aufmerksamkeit
+### Vielen Dank für Ihre Aufmerksamkeit
 
 
